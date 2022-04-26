@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, My name is Adam Elkhanoufi</h1>
-<h3 align="center">I'm a curious Software Engineering student who is interested in every aspect of technology.</h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFFFFF&vCenter=true&center=true&width=460&lines=Curious+Software+Engineer!;Backend-Developer!;Passion+for+programming!!;Ambitious!;Moroccan!;Gamer+into+game+development!" </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
 
