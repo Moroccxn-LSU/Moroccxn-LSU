@@ -16,7 +16,7 @@
 
 <p align="left">- 📫 Reach me @aelkha5@lsu.edu
 
-<p align="left">- ⚡ Fun fact I speak French, Arabic, English, Spanish, and Italian
+<p align="left">- ⚡ Fun fact I speak French, Arabic, and English
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
