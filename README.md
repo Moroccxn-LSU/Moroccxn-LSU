@@ -10,7 +10,7 @@
 
 <p align="left">- 🌱 I’m currently learning Game development, Computer networks, and Database systems
 
-<p align="left">- 🤝 I’m looking for help with learning Web3.0
+<p align="left">- 🤝 I’m looking for help with learning Node.js and APIs
 
 <p align="left">- 💬 Ask me about C++ and Game Devolopment!!
 
