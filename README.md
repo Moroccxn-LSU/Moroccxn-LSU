@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Adam Elkhanoufi</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFFFFF&vCenter=true&center=true&width=460&lines= Curious+Software+Engineer!;Backend-Developer!;Passion+for+programming!;Ambitious!;Moroccan!;Gamer+in+game+development!" </p>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5501&color=FFFFFF&vCenter=true&center=true&width=470&lines=Curious+Software+Engineer!;Backend-Developer!;Passion+for+programming!;Ambitious!;Moroccan!;Gamer+in+game+development!" </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
