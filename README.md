@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, My name is Adam Elkhanoufi</h1>
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFFFFF&vCenter=true&center=true&width=460&lines=Curious+Software+Engineer!;Backend-Developer!;Passion+for+programming!!;Ambitious!;Moroccan!;Gamer+into+game+development!" </p>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=FFFFFF&vCenter=true&center=true&width=460&lines= Curious+Software+Engineer!;Backend-Developer!;Passion+for+programming!;Ambitious!;Moroccan!;Gamer+in+game+development!" </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/moroccxn_lsu" target="blank"><img src="https://img.shields.io/twitter/follow/moroccxn_lsu?logo=twitter&style=for-the-badge" alt="moroccxn_lsu" /></a> </p>
 
-<p align="left">- 🔭 I’m currently working on Making a word Trie with a query that is essentially autofill
+<p align="left">- 🔭 I’m currently working on making a Word Trie with a query that is essentially autofill
 
 <p align="left">- 🌱 I’m currently learning Game development, Computer networks, and Database systems
 
