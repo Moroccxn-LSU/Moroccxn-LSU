@@ -8,7 +8,7 @@
 
 <p align="left">- 🔭 I’m currently making a bot that posts a random coding interview question daily on Twitter.     
 
-<p align="left">- 🌱 I’m currently learning Game development, Computer networks, and Database systems
+<p align="left">- 🌱 I’m currently learning API design, Computer networks, and Database systems
 
 <p align="left">- 🤝 I’m looking for help with learning Node.js and APIs
 
