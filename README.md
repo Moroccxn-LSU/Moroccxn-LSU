@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/moroccxn_lsu" target="blank"><img src="https://img.shields.io/twitter/follow/moroccxn_lsu?logo=twitter&style=for-the-badge" alt="moroccxn_lsu" /></a> </p>
 
-<p align="left">- 🔭 I’m currently making a bot that posts a random coding interview question daily on Twitter.     
+<p align="left">- 🔭 I’m currently making an API for all Crypto related news which I will attach to my bot to post news daily.     
 
 <p align="left">- 🌱 I’m currently learning API design, Computer networks, and Database systems
 
