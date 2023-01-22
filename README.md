@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/moroccxn_lsu" target="blank"><img src="https://img.shields.io/twitter/follow/moroccxn_lsu?logo=twitter&style=for-the-badge" alt="moroccxn_lsu" /></a> </p>
 
 <p align="left">- 🔭 I’m currently making an API for Crypto related news which I will attach to my twitter bot to post daily.     
 
