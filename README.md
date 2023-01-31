@@ -11,7 +11,7 @@
 
 <p align="left">- 🤝 I’m looking for help with learning Node.js and APIs
 
-<p align="left">- 💬 Ask me about C++ and Game Devolopment!!
+<p align="left">- 💬 Ask me about C++ and Cloud Devolopment!!
 
 <p align="left">- 📫 Reach me @aelkha5@lsu.edu
 
