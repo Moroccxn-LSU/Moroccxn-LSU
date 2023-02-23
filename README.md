@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
 
 
-<p align="left">- 🔭 I’m currently making an API for Crypto related news which I will attach to my twitter bot to post daily.     
+<p align="left">- 🔭 I’m currently making my own custom RayTracing program for Unity.     
 
-<p align="left">- 🌱 I’m currently learning API design, Computer networks, and Database systems
+<p align="left">- 🌱 I’m currently learning API design, Programming Languages, and Database systems
 
 <p align="left">- 🤝 I’m looking for help with learning Node.js and APIs
 
