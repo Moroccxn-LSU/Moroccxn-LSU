@@ -9,7 +9,7 @@
 
 <p align="left">- 🌱 I’m currently learning API design, Programming Languages, and Database systems
 
-<p align="left">- 🤝 I’m looking for help with learning Node.js and APIs
+<p align="left">- 🤝 I’m looking for help with learning Embedded Systems and IoT programming
 
 <p align="left">- 💬 Ask me about C++ and Cloud Devolopment!!
 
