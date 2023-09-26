@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moroccxn-lsu&label=Profile%20views&color=0e75b6&style=flat" alt="moroccxn-lsu" /> </p>
 
 
-<p align="left">- 🔭 I’m currently making my own custom RayTracing program for Unity.     
+<p align="left">- 🔭 I'm experienced in Data Science, Software Engineering, and Cloud Computing.    
 
-<p align="left">- 🌱 I’m currently learning API design, Programming Languages, and Database systems
-
-<p align="left">- 🤝 I’m looking for help with learning Embedded Systems and IoT programming
+<p align="left">- 🎮 I started off with game development in Unity, so reach out if you want to talk games!
+  
+<p align="left">- 🤝 I’m looking for help with learning Embedded Systems and IoT programming.
 
 <p align="left">- 💬 Ask me about C++ and Cloud Devolopment!!
 
